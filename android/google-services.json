@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717907899748",
+    "project_id": "frangoz-app",
+    "storage_bucket": "frangoz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717907899748:android:66934b18cda2af82543671",
+        "android_client_info": {
+          "package_name": "com.arfaidrees.frangoz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspl8Mhy2sGI3NMkQGCBG66F6srWnEEQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
