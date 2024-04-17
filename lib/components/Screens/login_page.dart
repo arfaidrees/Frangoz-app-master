@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:login_signup/components/Screens/forget_password_page.dart';
 import 'package:login_signup/components/Screens/nav_screen.dart';
@@ -8,8 +7,6 @@ import 'package:login_signup/components/common/custom_input_field.dart';
 import 'package:login_signup/components/common/page_heading.dart';
 
 import '../common/page_header.dart';
-
-
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
@@ -119,7 +116,6 @@ class _LoginPageState extends State<LoginPage> {
   }
 
   void _handleLoginUser() {
-    // login user
     if (_loginFormKey.currentState!.validate()) {
       Navigator.push(
         context,
